@@ -12,3 +12,7 @@ Ce projet est destiné à valider les connaissances en DevOps des élèves de 3�
 ## Test Results
 
 [![Node.js CI](https://github.com/FlamySpeeddraw/CC1-DEVOPS-3INFO/actions/workflows/node.js.yml/badge.svg)](https://github.com/FlamySpeeddraw/CC1-DEVOPS-3INFO/actions/workflows/node.js.yml)
+
+## Lien du site
+
+https://github.com/FlamySpeeddraw/CC1-DEVOPS-3INFO
