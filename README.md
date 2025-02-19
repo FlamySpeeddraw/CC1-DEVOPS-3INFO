@@ -12,3 +12,7 @@ Ce projet est destiné à valider les connaissances en DevOps des élèves de 3�
 ## Test Results
 
 [![Node.js CI](https://github.com/FlamySpeeddraw/CC1-DEVOPS-3INFO/actions/workflows/node.js.yml/badge.svg)](https://github.com/FlamySpeeddraw/CC1-DEVOPS-3INFO/actions/workflows/node.js.yml)
+
+## Deployement status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/300ac602-3d17-4ad2-9c94-38dbeada030a/deploy-status)](https://app.netlify.com/sites/neon-muffin-f40074/deploys)
